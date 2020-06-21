@@ -1,0 +1,12 @@
+Arrays --> deadly supported by programming languages
+Stack === Array implementation
+Queue -> circular
+
+Arrays:
+  Memory: Amount if memory in bytes is given at declaration time
+  Operation: Array reference
+    Cost: O(1)
+      Why cost O(1)?
+        Address of A[i] === α + i*b   //directly find the address and thus cost 1.
+
+//heterogeneous class elements
